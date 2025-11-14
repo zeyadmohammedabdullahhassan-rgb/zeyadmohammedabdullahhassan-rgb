@@ -9,7 +9,7 @@
 ## <span style="color: #28B463;">📊 Data Analyst From Egypt</span>
 <p style="color: #566573; font-size: 1.1em; line-height: 1.2;">
   A passionate <strong style="color: #E74C3C;">Data Analyst</strong> with strong skills in 
-  <span style="color: #8E44AD;">Python</span>, 
+  <a href="https://ossinsight.io/explore/"><span style="color: #8E44AD;">Python</span></a>, 
   <span style="color: #F39C12;">Power BI</span>, 
   <span style="color: #138D75;">Excel</span>, and 
   <span style="color: #3498DB;">SQL</span>. 
