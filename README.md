@@ -1,7 +1,6 @@
 
 <table>
   <tr>
-    <td style="vertical-align: right; padding-right: 10px;"></td>
     <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
      <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;">👑</span>
          Zeyad Mohammed Abdullah
