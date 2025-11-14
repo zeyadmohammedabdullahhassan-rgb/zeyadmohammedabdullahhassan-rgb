@@ -108,6 +108,7 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
   </tr>
 </table>
 <!-- End project pizz sales -->
+
 <!-- First Project AilLine Customer Serivec ---->
 
 <table>
@@ -144,14 +145,50 @@ A simple data analysis project focused on airline customer service performance, 
     </td>
   </tr>
 </table>
-<!-- End project pizz sales -->
+<!-- End project Airline Service -->
 
 
-<!-- Pictures for Dashbords -->
-<p align="center"> 
-                   <img src="AilLine Dashbord.PNG" width="300" height = "700" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                  <img src="SuperStore.png" width="300" height = "400" alt="zeyadmohammedabdullahhassan-rgb" /> 
+<!-- First Project SuperStore ---->
+
+<table>
+  <tr>
+        <td style="vertical-align: top;">
+      <p>
+     <h2>�AirLine Customer Service  </h2>
+## 📌 Overview
+
+A simple data analysis project focused on airline customer service performance, using Python to explore customer satisfaction, service issues, and operational efficiency.
+
+## 🛠️ Tools
+* Power qeury
+* Excel Dashboard
+
+## 📊 Main Work
+
+* Cleaned and prepared sales, orders, and customer data.
+* Analyzed top-selling products, categories, and regions.
+* Visualized sales trends over time (daily, monthly, yearly).
+* Built interactive Excel dashboards with KPIs and slicers.
+
+## 🚀 Key Insights
+
+* Top-selling product categories and regions.
+* Seasonal sales patterns.
+* Customer segmentation and behavior.
+* Revenue distribution by product and region.
+
 </p>
+    </td>
+    <td width="500" style="vertical-align: top;">
+      <img src="SuperStore.png" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    </td>
+  </tr>
+</table>
+<!-- End project SuperStore -->
+
+
+
+
 
 
 
