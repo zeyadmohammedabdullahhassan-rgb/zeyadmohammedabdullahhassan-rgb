@@ -73,7 +73,7 @@
   <tr>
         <td style="vertical-align: top;">
       <p>
-     <h3>📊 🍕 Pizza Sales Analysis  </h3>
+     <h2>📊 🍕 Pizza Sales Analysis  </h2>
 ## 📌 Overview
 
 A simple data analysis project using **Python** and a **dynamic Excel dashboard** to explore pizza sales and discover key business insights.
@@ -100,7 +100,7 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
 </p>
     </td>
     <td width="500" style="vertical-align: top;">
-      <img src="Capture.PNG" width="600" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+      <img src="Capture.PNG" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
 </table>
