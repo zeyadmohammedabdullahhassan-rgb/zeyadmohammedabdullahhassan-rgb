@@ -30,14 +30,26 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 10px;">Zeyad Mohammed Abdullah</h1>
-      <h3>Data Analyst From Egypt</h3>
-      <p style="color: blue;">A passionate Data Analyst with strong skills in Python, Power BI, Excel, and SQL. I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.</p>
+    <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 10px;">
+     <span style="color: #E74C3C; font-size: 1.2em; vertical-align: super;">👑</span>
+         Zeyad Mohammed Abdullah
+    </h1>
+## <span style="color: #28B463;">📊 Data Analyst From Egypt</span>
+<p style="color: #566573; font-size: 1.1em; line-height: 1.6;">
+  A passionate <strong style="color: #E74C3C;">Data Analyst</strong> with strong skills in 
+  <span style="color: #8E44AD;">Python</span>, 
+  <span style="color: #F39C12;">Power BI</span>, 
+  <span style="color: #138D75;">Excel</span>, and 
+  <span style="color: #3498DB;">SQL</span>. 
+  I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.
+</p>
+   <div style="color: #7D6608; font-weight: bold;">
+  🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • 📝 Blog • 🔌 API • 🐦 Twitter
+ </div>
     </td>
     <td width="200" style="vertical-align: top;">
       <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
- 
   </tr>
 </table>
 
