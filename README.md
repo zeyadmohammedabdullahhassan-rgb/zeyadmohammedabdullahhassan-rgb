@@ -3,7 +3,7 @@
   <tr>
     <td style="vertical-align: top;">
     <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
-     <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;">👑</span>
+     <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;"></span>
          Zeyad Mohammed Abdullah
     </h1>
 <p style="color: #566573; font-size: 1.1em; line-height: 1.2;">
@@ -67,7 +67,21 @@
     </td>
   </tr>
 </table>
+<!-- ---->
 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+    <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
+     <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;"></span>
+         Zeyad Mohammed Abdullah
+    </h1>
+    </td>
+    <td width="200" style="vertical-align: top;">
+      <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Pictures for Dashbords -->
 <p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="580" height = "1000" alt="zeyadmohammedabdullahhassan-rgb" /> 
