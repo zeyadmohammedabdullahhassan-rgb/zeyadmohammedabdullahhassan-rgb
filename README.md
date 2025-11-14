@@ -71,6 +71,7 @@
 
 <table>
   <tr>
+        <td style="vertical-align: top;">
       <p>
      <h3>📊 🍕 Pizza Sales Analysis  </h3>
 ## 📌 Overview
