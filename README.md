@@ -76,6 +76,32 @@
      <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;"></span>
          Pizza Sales Project
     </h1>
+      <p>
+     <h3>📊 🍕 Pizza Sales Analysis  </h3>
+## 📌 Overview
+
+A simple data analysis project using **Python** and a **dynamic Excel dashboard** to explore pizza sales and discover key business insights.
+
+## 🛠️ Tools
+
+* Python (Pandas, Matplotlib)
+* Jupyter Notebook
+* Excel Dashboard
+
+## 📊 Main Work
+
+* Cleaned and prepared the data
+* Analyzed best-selling items, total revenue, and sales trends
+* Created visualizations (line, bar, pie)
+* Built an interactive Excel dashboard with KPIs & slicers
+
+## 🚀 Key Insights
+
+* Top categories and sizes
+* Daily & monthly sales trends
+* Revenue distribution by pizza type
+
+</p>
     </td>
     <td width="200" style="vertical-align: top;">
       <img src="Capture.PNG" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
