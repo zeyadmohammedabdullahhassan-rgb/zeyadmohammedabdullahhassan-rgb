@@ -20,9 +20,9 @@
   •
   <a href="https://twitter.com/OSSInsight">Twitter</a>
 </h3>
-<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
+<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="150" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
 
-<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
+<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="150" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmohammedabdullahhassan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
