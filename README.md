@@ -22,7 +22,7 @@
 </h3>
 <!-- Pictures for Dashbords -->
 <p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="500" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                   <img src="AilLine Dashbord.PNG" width="500" alt="zeyadmohammedabdullahhassan-rgb" /> 
+                   <img src="AilLine Dashbord.PNG" width="500" height = "600" alt="zeyadmohammedabdullahhassan-rgb" /> 
                   <img src="SuperStore.png" width="1000" height = "15000" alt="zeyadmohammedabdullahhassan-rgb" /> 
 
 </p>
