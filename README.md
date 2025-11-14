@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeyad Mohammed</h1> <img src="Minority Report Glitch GIF by ABCNT.gif" width="500" alt="zeyadmohammedabdullahhassan-rgb" /> 
+<h1 align="center">Hi 👋, I'm Zeyad Mohammed</h1> <p align="left"><img src="Minority Report Glitch GIF by ABCNT.gif" width="500" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
 <h3 align="center">A passionate Data Analyst From Egypt</h3>
 
 <h4 align="center">
