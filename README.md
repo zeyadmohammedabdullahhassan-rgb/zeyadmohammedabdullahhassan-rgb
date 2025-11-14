@@ -26,29 +26,9 @@
 </table>
 
 
-
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
 <!-- Pictures for Dashbords -->
-<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="500" height = "250" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                   <img src="AilLine Dashbord.PNG" width="500" height = "500" alt="zeyadmohammedabdullahhassan-rgb" /> 
+<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="700" height = "250" alt="zeyadmohammedabdullahhassan-rgb" /> 
+                   <img src="AilLine Dashbord.PNG" width="500" height = "700" alt="zeyadmohammedabdullahhassan-rgb" /> 
                   <img src="SuperStore.png" width="600" height = "500" alt="zeyadmohammedabdullahhassan-rgb" /> 
 
 </p>
