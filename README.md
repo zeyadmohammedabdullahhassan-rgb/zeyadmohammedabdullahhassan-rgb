@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td width="300" style="vertical-align: top;">
+    <td width="200" style="vertical-align: top;">
       <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
     <td style="vertical-align: top; padding-right: 30px;">
