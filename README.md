@@ -30,15 +30,12 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-
 - 🔭 I have recently finished my project.
      <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES</span></a>
 - 🌱 I’m currently learning  { Data Analyst | Data Engineering }
-
 - 👨‍💻 All of my projects are available at
 <a href="https://github.com/zeyadmohammedabdullahhassan-rgb">PROJECTS</span></a>
 - 💬 Phone: **+201055474248**
-
 - 📫 How to reach me **zeyad.mohammed.abdullah.hassan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
