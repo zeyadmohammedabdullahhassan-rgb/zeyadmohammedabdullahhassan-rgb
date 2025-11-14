@@ -36,7 +36,7 @@
 - 🌱 I’m currently learning  { Data Analyst | Data Engineering }
 
 - 👨‍💻 All of my projects are available at
-<a href="">PIZZA SALES</span></a>
+<a href="https://github.com/zeyadmohammedabdullahhassan-rgb">PROJECTS</span></a>
 - 💬 Phone: **+201055474248**
 
 - 📫 How to reach me **zeyad.mohammed.abdullah.hassan@gmail.com**
