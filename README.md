@@ -61,10 +61,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadmohammedabdullahhassan-rgb&show_icons=true&locale=en&layout=compact" alt="zeyadmohammedabdullahhassan-rgb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyadmohammedabdullahhassan-rgb&show_icons=true&locale=en" alt="zeyadmohammedabdullahhassan-rgb" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadmohammedabdullahhassan-rgb&" alt="zeyadmohammedabdullahhassan-rgb" /></p>
     </td>
     <td width="200" style="vertical-align: top;">
