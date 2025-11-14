@@ -6,7 +6,7 @@
      <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;">👑</span>
          Zeyad Mohammed Abdullah
     </h1>
-<span style="color: #28B463;">📊 Data Analyst From Egypt</span>
+<h2><span style="color: #28B463;">📊 Data Analyst From Egypt</span> </h2>
 <p style="color: #566573; font-size: 1.1em; line-height: 1.2;">
   A passionate <strong style="color: #E74C3C;">Data Analyst</strong> with strong skills in 
   <a href=""><span style="color: #8E44AD;">Python</span></a>, 
