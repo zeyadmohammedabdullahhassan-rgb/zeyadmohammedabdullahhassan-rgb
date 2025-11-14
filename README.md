@@ -27,9 +27,9 @@
 
 
 <!-- Pictures for Dashbords -->
-<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="300" height = "250" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                   <img src="AilLine Dashbord.PNG" width="300" height = "300" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                  <img src="SuperStore.png" width="300" height = "300" alt="zeyadmohammedabdullahhassan-rgb" /> 
+<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="300" height = "300" alt="zeyadmohammedabdullahhassan-rgb" /> 
+                   <img src="AilLine Dashbord.PNG" width="300" height = "400" alt="zeyadmohammedabdullahhassan-rgb" /> 
+                  <img src="SuperStore.png" width="300" height = "400" alt="zeyadmohammedabdullahhassan-rgb" /> 
 
 </p>
 
