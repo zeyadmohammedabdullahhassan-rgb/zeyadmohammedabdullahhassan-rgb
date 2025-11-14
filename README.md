@@ -1,7 +1,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 20px;"></td>
     <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
      <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;">👑</span>
          Zeyad Mohammed Abdullah
@@ -25,10 +25,38 @@
   </tr>
 </table>
 
+<!-- Pictures for Dashbords -->
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+    <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
+     <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;">👑</span>
+         Zeyad Mohammed Abdullah
+    </h1>
+<p style="color: #566573; font-size: 1.1em; line-height: 1.2;">
+  <h3>📊 Data Analyst From Egypt </h3>
+  A passionate <strong style="color: #E74C3C;">Data Analyst</strong> with strong skills in 
+  <a href=""><span style="color: #8E44AD;">Python</span></a>, 
+  <span style="color: #F39C12;">Power BI</span>, 
+  <span style="color: #138D75;">Excel</span>, and 
+  <span style="color: #3498DB;">SQL</span>. 
+  I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.
+</p>
+   <div">
+     🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 
+ </div>
+    </td>
+    <td width="200" style="vertical-align: top;">
+      <img src="gif.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Pictures for Dashbords -->
 <p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="580" height = "1000" alt="zeyadmohammedabdullahhassan-rgb" /> 
-                   <img src="gif.gif" width="400" height = "600" alt="zeyadmohammedabdullahhassan-rgb" />  <img src="AilLine Dashbord.PNG" width="300" height = "700" alt="zeyadmohammedabdullahhassan-rgb" /> 
+                   <img src="AilLine Dashbord.PNG" width="300" height = "700" alt="zeyadmohammedabdullahhassan-rgb" /> 
                   <img src="SuperStore.png" width="300" height = "400" alt="zeyadmohammedabdullahhassan-rgb" /> 
 
 </p>
