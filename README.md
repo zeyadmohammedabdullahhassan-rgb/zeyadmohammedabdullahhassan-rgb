@@ -1,8 +1,8 @@
 
 <table>
   <tr>
-    <td width="160" style="vertical-align: top;">
-      <img src="Minority Report Glitch GIF by ABCNT.gif" width="150" height="150" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    <td width="300" style="vertical-align: top;">
+      <img src="Minority Report Glitch GIF by ABCNT.gif" width="300" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
     <td style="vertical-align: top; padding-right: 20px;">
       <h1>Zeyad Mohammed Abdullah</h1>
