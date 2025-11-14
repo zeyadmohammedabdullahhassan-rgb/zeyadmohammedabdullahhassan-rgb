@@ -8,6 +8,7 @@
     </h1>
 <h2>📊 Data Analyst From Egypt </h2>
 <p style="color: #566573; font-size: 1.1em; line-height: 1.2;">
+  <h3>📊 Data Analyst From Egypt </h3>
   A passionate <strong style="color: #E74C3C;">Data Analyst</strong> with strong skills in 
   <a href=""><span style="color: #8E44AD;">Python</span></a>, 
   <span style="color: #F39C12;">Power BI</span>, 
