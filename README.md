@@ -61,7 +61,7 @@
 </p>
     </td>
     <td width="200" style="vertical-align: top;">
-      <img src="projects.gif" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+      <img src="projects.gif" width="600" height="800" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
 </table>
