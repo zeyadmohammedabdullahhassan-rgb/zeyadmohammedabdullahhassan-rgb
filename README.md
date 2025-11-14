@@ -41,7 +41,7 @@
 
 - 💬 Phone: **+201055474248**
   
-- 📫 How to reach me<a href="zeyad.mohammed.abdullah.hassan@gmail.com">Gmails</span></a>
+- 📫 How to reach me <a href=**zeyad.mohammed.abdullah.hassan@gmail.com**>Gmails</span></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
