@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="160" style="vertical-align: top;">
-      <img src="Minority Report Glitch GIF by ABCNT.gif" width="150" height="150" style="border-radius: 50%;"/>
+      <img src="Minority Report Glitch GIF by ABCNT.gif" width="150" height="150" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h1>Zeyad Mohammed Abdullah</h1>
