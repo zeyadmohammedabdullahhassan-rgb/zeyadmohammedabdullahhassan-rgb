@@ -71,11 +71,6 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top;">
-    <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
-     <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;"></span>
-         Pizza Sales Project
-    </h1>
       <p>
      <h3>📊 🍕 Pizza Sales Analysis  </h3>
 ## 📌 Overview
