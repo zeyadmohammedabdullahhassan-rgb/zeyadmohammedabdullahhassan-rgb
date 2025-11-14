@@ -1,20 +1,5 @@
 
 
-<div>
-  <img src="Minority Report Glitch GIF by ABCNT.gif" alt="zeyadmohammedabdullahhassan-rgb" width="150" height="150" style="border-radius: 50%; float: left; margin-right: 20px;"/>
-  
-  <div>
-    <h1>Zeyad Mohammed Abdullah</h1>
-    <h3>Data Analyst From Egypt</h3>
-    <p>A passionate Data Analyst with strong skills in Python, Power BI, Excel, and SQL. I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.</p>
-  </div>
-</div>
-
-
-
-
-
-
 <h1 align="left" width="300">
   Hi 👋, I'm Zeyad Mohammed Abdullah 
 <h3 align="left">A passionate Data Analyst From Egypt With strong skills in Python, Power BI, Excel, and SQL. I enjoy turning raw data into actionable insights and  building dashboards that help businesses make better decisions. I've worked on projects analyzing sales. customer behavior, and performance metrics. Always eager to learn new tools and collaborate on impactful data projects.</h3>
