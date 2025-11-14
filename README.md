@@ -51,6 +51,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
+<a href="[https://excel.cloud.microsoft/en-us/](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1)" target="_blank" rel="noreferrer"> <img src="excel.png" alt="excel" width="40" height="40"/> </a> 
 <a href="https://excel.cloud.microsoft/en-us/" target="_blank" rel="noreferrer"> <img src="excel.png" alt="excel" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
