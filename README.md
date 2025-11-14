@@ -154,10 +154,10 @@ A simple data analysis project focused on airline customer service performance, 
   <tr>
         <td style="vertical-align: top;">
       <p>
-     <h2>�AirLine Customer Service  </h2>
+     <h2>SuperStore  </h2>
 ## 📌 Overview
 
-A simple data analysis project focused on airline customer service performance, using Python to explore customer satisfaction, service issues, and operational efficiency.
+A data analysis project focused on Superstore sales and performance, using Python and Excel dashboards to explore sales trends, top products, and customer insights.
 
 ## 🛠️ Tools
 * Power qeury
