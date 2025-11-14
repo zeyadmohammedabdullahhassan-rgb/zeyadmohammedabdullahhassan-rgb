@@ -67,7 +67,10 @@
     </td>
   </tr>
 </table>
-<!-- ---->
+
+
+
+<!-- First Project pizza sales ---->
 
 <table>
   <tr>
@@ -104,9 +107,48 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
     </td>
   </tr>
 </table>
+<!-- End project pizz sales -->
+<!-- First Project AilLine Customer Serivec ---->
+
+<table>
+  <tr>
+        <td style="vertical-align: top;">
+      <p>
+     <h2>�AirLine Customer Service  </h2>
+## 📌 Overview
+
+A simple data analysis project focused on airline customer service performance, using Python to explore customer satisfaction, service issues, and operational efficiency.
+
+## 🛠️ Tools
+* Power qeury
+* Excel Dashboard
+
+## 📊 Main Work
+
+Cleaned and organized customer feedback and service data
+Analyzed common passenger issues and satisfaction scores
+Visualized trends such as delays, complaints, response times
+Identified areas that need improvement in customer service
+
+## 🚀 Key Insights
+
+Most common types of customer complaints
+Service areas with the highest impact on satisfaction
+Peak times for customer service load
+Factors affecting customer experience
+
+</p>
+    </td>
+    <td width="500" style="vertical-align: top;">
+      <img src="AilLine Dashbord.PNG" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    </td>
+  </tr>
+</table>
+<!-- End project pizz sales -->
+
 
 <!-- Pictures for Dashbords -->
-<p align="center"> <img src="https://github.com/zeyadmohammedabdullahhassan-rgb/zeyadmohammedabdullahhassan-rgb/blob/main/Capture.PNG" width="580" height = "1000" alt="zeyadmohammedabdullahhassan-rgb" /> 
+<p align="center"> 
                    <img src="AilLine Dashbord.PNG" width="300" height = "700" alt="zeyadmohammedabdullahhassan-rgb" /> 
                   <img src="SuperStore.png" width="300" height = "400" alt="zeyadmohammedabdullahhassan-rgb" /> 
 </p>
