@@ -1,14 +1,15 @@
 
 <table>
   <tr>
-    <td width="200" style="vertical-align: top;">
-      <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
-    </td>
-    <td style="vertical-align: top; padding-right: 30px;">
+      <td style="vertical-align: top; padding-right: 30px;">
       <h1>Zeyad Mohammed Abdullah</h1>
       <h3>Data Analyst From Egypt</h3>
       <p>A passionate Data Analyst with strong skills in Python, Power BI, Excel, and SQL. I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.</p>
     </td>
+    <td width="200" style="vertical-align: top;">
+      <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    </td>
+ 
   </tr>
 </table>
 
