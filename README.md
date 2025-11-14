@@ -19,8 +19,8 @@
   🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • 📝 Blog • 🔌 API • 🐦 Twitter
  </div>
     </td>
-    <td width="200" style="vertical-align: top;">
-      <img src="Minority Report Glitch GIF by ABCNT.gif" width="150" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+    <td width="300" style="vertical-align: top;">
+      <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
 </table>
