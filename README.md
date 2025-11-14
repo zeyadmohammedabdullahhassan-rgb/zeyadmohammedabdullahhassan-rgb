@@ -125,17 +125,17 @@ A simple data analysis project focused on airline customer service performance, 
 
 ## 📊 Main Work
 
-Cleaned and organized customer feedback and service data
-Analyzed common passenger issues and satisfaction scores
-Visualized trends such as delays, complaints, response times
-Identified areas that need improvement in customer service
+* Cleaned and organized customer feedback and service data.
+* Analyzed common passenger issues and satisfaction scores.
+* Visualized trends such as delays, complaints, response times.
+* Identified areas that need improvement in customer service.
 
 ## 🚀 Key Insights
 
-Most common types of customer complaints
-Service areas with the highest impact on satisfaction
-Peak times for customer service load
-Factors affecting customer experience
+* Most common types of customer complaints.
+* Service areas with the highest impact on satisfaction.
+* Peak times for customer service load.
+* Factors affecting customer experience.
 
 </p>
     </td>
