@@ -4,7 +4,7 @@
     <td width="160" style="vertical-align: top;">
       <img src="Minority Report Glitch GIF by ABCNT.gif" width="150" height="150" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
+    <td style="vertical-align: top; padding-right: 20px;">
       <h1>Zeyad Mohammed Abdullah</h1>
       <h3>Data Analyst From Egypt</h3>
       <p>A passionate Data Analyst with strong skills in Python, Power BI, Excel, and SQL. I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.</p>
