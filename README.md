@@ -74,11 +74,11 @@
     <td style="vertical-align: top;">
     <h1 style="color: #2E86C1; font-size: 2.5em; margin-bottom: 20px;">
      <span style="color: #E74C3C; font-size: 1.5em; vertical-align: super;"></span>
-         Zeyad Mohammed Abdullah
+         Pizza Sales Project
     </h1>
     </td>
     <td width="200" style="vertical-align: top;">
-      <img src="Minority Report Glitch GIF by ABCNT.gif" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+      <img src="Capture.PNG" width="200" height="300" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
 </table>
