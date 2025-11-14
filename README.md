@@ -16,7 +16,7 @@
   I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.
 </p>
    <div style="font-size: 1250px; color: #666;">
-  🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • 📝 Blog • 🔌 API • 🐦 Twitter
+  🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • 
  </div>
     </td>
     <td width="200" style="vertical-align: top;">
