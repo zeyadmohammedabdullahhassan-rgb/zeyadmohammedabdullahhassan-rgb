@@ -1,10 +1,9 @@
 <h1 align="left" width="300">
   Hi 👋, I'm Zeyad Mohammed Abdullah 
-   
-
+<h3 align="center">A passionate Data Analyst From Egypt</h3>
 <p align="right"><img src="Minority Report Glitch GIF by ABCNT.gif" width="300" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
 </h1> 
-<h3 align="center">A passionate Data Analyst From Egypt</h3>
+
 
 <h4 align="center">
   <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
