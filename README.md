@@ -30,9 +30,6 @@
 <table>
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadmohammedabdullahhassan-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadmohammedabdullahhassan-rgb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyadmohammedabdullahhassan-rgb" alt="zeyadmohammedabdullahhassan-rgb" /></a> </p>
 
 - 🔭 I’m currently working on [Pizza Restaurant](https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project)
 
