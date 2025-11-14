@@ -14,10 +14,9 @@
   <span style="color: #138D75;">Excel</span>, and 
   <span style="color: #3498DB;">SQL</span>. 
   I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.
-   <small><small><small>🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • </small></small></small>
 </p>
-   <div style="font-size: 1250px; color: #666;">
-     <small><small><small>🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • </small></small></small>
+   <div">
+     🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 
  </div>
     </td>
     <td width="200" style="vertical-align: top;">
