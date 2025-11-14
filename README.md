@@ -15,7 +15,7 @@
   <span style="color: #3498DB;">SQL</span>. 
   I enjoy turning raw data into actionable insights and building dashboards that help businesses make better decisions.
 </p>
-   <div style="color: #7D6608; font-weight: bold;">
+   <div style="color: #7D6608; font-weight: bold; font-size: 1.1em;">
   🔍 Data Explorer • 📈 Repo Rankings • 📊 Developer Analytics • 🗂️ Repo Analytics • 📁 Collections • 🛠️ Workshop • 📝 Blog • 🔌 API • 🐦 Twitter
  </div>
     </td>
