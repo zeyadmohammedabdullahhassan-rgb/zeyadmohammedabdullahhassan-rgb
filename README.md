@@ -59,7 +59,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
     </td>
-    <td width="600" style="vertical-align: top;">
+    <td width="650" style="vertical-align: top;">
       <img src="projects.gif" width="500" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
