@@ -32,7 +32,7 @@
     <td style="vertical-align: top; padding-right: 20px;">
       
 - 🔭 I have recently finished my project.
-     <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;"><h2>PIZZA SALES</h2></span></a>
+     <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;"><h2>PIZZA SALES</span></a>
       
 - 🌱 I’m currently learning  { Data Analyst | Data Engineering }
   
@@ -76,7 +76,7 @@
   <tr>
         <td style="vertical-align: top;">
       <p>
-<a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES Analysis</span></a>
+<a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;"><h2>PIZZA SALES Analysis</h2></span></a>
 
   📌 Overview
 
