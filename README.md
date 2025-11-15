@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 50;">
           
 - 🌱 I’m currently learning {Data Analyst in <a href="https://www.nti.sci.eg/summertraining/signin.php"> NTI </span></a>
   
