@@ -100,7 +100,7 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
 
 </p>
     </td>
-    <td width="500" height="250" style="vertical-align: top;">
+    <td width="500" height="1000" style="vertical-align: top;">
       <img src="Capture.PNG" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
