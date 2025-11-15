@@ -28,13 +28,13 @@
 <!--  ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- ---><!-- --->
 
 <table>
-  <tr>
-    <td style="vertical-align: top;">
+   <tr>
+      <td style="vertical-align: top;">
           
 - 🌱 I’m currently learning {Data Analyst in <a href="https://www.nti.sci.eg/summertraining/signin.php"> NTI </span></a>
   
 - 👨‍💻 All of my projects are available at
-<a href="https://github.com/zeyadmohammedabdullahhassan-rgb">PROJECTS</span></a>
+       <a href="https://github.com/zeyadmohammedabdullahhassan-rgb">PROJECTS</span></a>
 
 - 💬 Phone: **+201055474248** | **+201128985969**
   
