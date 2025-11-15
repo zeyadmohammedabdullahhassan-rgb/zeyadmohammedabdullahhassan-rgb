@@ -31,7 +31,7 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
           
-- 🌱 I’m currently learning {Data Analyst | Data Engineering}
+- 🌱 I’m currently learning {Data Analyst in <a href="https://github.com/zeyadmohammedabdullahhassan-rgb">NTI</span></a>
   
 - 👨‍💻 All of my projects are available at
 <a href="https://github.com/zeyadmohammedabdullahhassan-rgb">PROJECTS</span></a>
