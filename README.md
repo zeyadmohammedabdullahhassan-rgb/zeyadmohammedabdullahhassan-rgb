@@ -76,7 +76,7 @@
   <tr>
         <td style="vertical-align: top;">
       <p>
-     <h2>📊 🍕 Pizza Sales Analysis  </h2>
+     <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><h2>📊 🍕 Pizza Sales Analysis  </h2></a>
 ## 📌 Overview
 
 A simple data analysis project using **Python** and a **dynamic Excel dashboard** to explore pizza sales and discover key business insights.
@@ -115,7 +115,7 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
   <tr>
         <td style="vertical-align: top;">
       <p>
-     <h2>�AirLine Customer Service  </h2>
+   <a href=" "> <h2>�AirLine Customer Service  </h2></a> 
 ## 📌 Overview
 
 A simple data analysis project focused on airline customer service performance, using Python to explore customer satisfaction, service issues, and operational efficiency.
