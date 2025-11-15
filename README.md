@@ -76,25 +76,26 @@
   <tr>
         <td style="vertical-align: top;">
       <p>
-<a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES</span></a>
-    ## 📌 Overview
+<a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES Analysis</span></a>
+
+  📌 Overview
 
 A simple data analysis project using **Python** and a **dynamic Excel dashboard** to explore pizza sales and discover key business insights.
 
-## 🛠️ Tools
+🛠️ Tools
 
 * Python (Pandas, Matplotlib)
 * Jupyter Notebook
 * Excel Dashboard
 
-## 📊 Main Work
+📊 Main Work
 
 * Cleaned and prepared the data
 * Analyzed best-selling items, total revenue, and sales trends
 * Created visualizations (line, bar, pie)
 * Built an interactive Excel dashboard with KPIs & slicers
 
-## 🚀 Key Insights
+ 🚀 Key Insights
 
 * Top categories and sizes
 * Daily & monthly sales trends
@@ -116,11 +117,13 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
         <td style="vertical-align: top;">
       <p>
    <a href=" "> <h2>�AirLine Customer Service  </h2></a> 
-## 📌 Overview
+    <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">�AirLine Customer Service</span></a>
+
+📌 Overview
 
 A simple data analysis project focused on airline customer service performance, using Python to explore customer satisfaction, service issues, and operational efficiency.
 
-## 🛠️ Tools
+ 🛠️ Tools
 * Power qeury
 * Excel Dashboard
 
@@ -131,7 +134,7 @@ A simple data analysis project focused on airline customer service performance, 
 * Visualized trends such as delays, complaints, response times.
 * Identified areas that need improvement in customer service.
 
-## 🚀 Key Insights
+ 🚀 Key Insights
 
 * Most common types of customer complaints.
 * Service areas with the highest impact on satisfaction.
@@ -155,7 +158,7 @@ A simple data analysis project focused on airline customer service performance, 
         <td style="vertical-align: top;">
       <p>
      <h2>SuperStore  </h2>
-## 📌 Overview
+ 📌 Overview
 
 A data analysis project focused on Superstore sales and performance, using Python and Excel dashboards to explore sales trends, top products, and customer insights.
 
@@ -163,14 +166,14 @@ A data analysis project focused on Superstore sales and performance, using Pytho
 * Power qeury
 * Excel Dashboard
 
-## 📊 Main Work
+ 📊 Main Work
 
 * Cleaned and prepared sales, orders, and customer data.
 * Analyzed top-selling products, categories, and regions.
 * Visualized sales trends over time (daily, monthly, yearly).
 * Built interactive Excel dashboards with KPIs and slicers.
 
-## 🚀 Key Insights
+ 🚀 Key Insights
 
 * Top-selling product categories and regions.
 * Seasonal sales patterns.
