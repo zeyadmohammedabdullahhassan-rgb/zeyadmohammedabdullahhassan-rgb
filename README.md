@@ -71,7 +71,7 @@
 
 <table>
   <tr>
-        <td style="vertical-align: top;">
+        <td width="500" height="400" style="vertical-align: top;">
       <p>
 <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES Analysis</span></a>
 
@@ -82,7 +82,6 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
 🛠️ Tools
 
 * Python (Pandas, Matplotlib)
-* Jupyter Notebook
 * Excel Dashboard
 
 📊 Main Work
@@ -93,14 +92,13 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
 * Built an interactive Excel dashboard with KPIs & slicers
 
  🚀 Key Insights
-
 * Top categories and sizes
 * Daily & monthly sales trends
 * Revenue distribution by pizza type
 
 </p>
     </td>
-    <td width="500" height="1000" style="vertical-align: top;">
+    <td width="500" height="400" style="vertical-align: top;">
       <img src="Capture.PNG" width="600" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
