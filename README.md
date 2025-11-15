@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 50;">
+    <td style="vertical-align: top;">
           
 - 🌱 I’m currently learning {Data Analyst in <a href="https://www.nti.sci.eg/summertraining/signin.php"> NTI </span></a>
   
@@ -60,7 +60,7 @@
 </p>
     </td>
     <td width="500" style="vertical-align: top;">
-      <img src="projects.gif" width="500" height="600" style="border-radius: 50%;" alt="zeyadmohammedabdullahhassan-rgb"/>
+      <img src="projects.gif" width="500" height="600" style="border-radius: 60%;" alt="zeyadmohammedabdullahhassan-rgb"/>
     </td>
   </tr>
 </table>
