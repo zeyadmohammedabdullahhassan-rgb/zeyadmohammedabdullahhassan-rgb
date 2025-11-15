@@ -71,7 +71,7 @@
 
 <table>
   <tr>
-        <td width="500" height="400" style="vertical-align: top;">
+        <td style="vertical-align: top;">
       <p>
 <a href="https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project"><span style="color: #8E44AD;">PIZZA SALES Analysis</span></a>
 
