@@ -116,7 +116,6 @@ A simple data analysis project using **Python** and a **dynamic Excel dashboard*
   <tr>
         <td style="vertical-align: top;">
       <p>
-    <a href="[https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project](https://github.com/zeyadmohammedabdullahhassan-rgb/Airline-Customer-Service-Project)"><span>AirLine Customer Service</span></a>
     <a href="[https://github.com/zeyadmohammedabdullahhassan-rgb/Data-Analysis-Pizza-Sales-Project](https://github.com/zeyadmohammedabdullahhassan-rgb/Airline-Customer-Service-Project)"><span style="color: #8E44AD;"> AirLine Customer Service </span></a>
 
 
